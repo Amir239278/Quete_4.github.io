@@ -1,0 +1,30 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #ff6b6b;
+}
+
+h2 {
+    color: #4ecdc4;
+    font-size: 24px;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    color: #f7fff7;
+}
+
+body {
+    background-color: #1a535c;
+    margin: 20px;
+    padding: 15px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #4ecdc4;
+    border-radius: 5px;
+}
